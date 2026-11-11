@@ -1,1 +1,3 @@
-print("phantomdep-dogfood base: no Python deps yet")
+import requests
+
+print(requests.__version__)
