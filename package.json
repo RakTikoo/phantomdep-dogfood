@@ -2,5 +2,7 @@
   "name": "phantomdep-dogfood",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
